@@ -75,7 +75,9 @@ html, body {
   .logo {
     display: block;
     max-width: 100%;
-    margin-bottom: $logo-margin;
+    width: 60%;
+    margin: 20px 20%;
+    //margin-bottom: $logo-margin;
   }
 
   &>.search {
@@ -189,7 +191,7 @@ html, body {
     }
 
     li {
-      font-size: 0.8em;
+      font-size: 0.9em;
       line-height: 1.7;
       text-decoration: none;
     }
@@ -197,7 +199,8 @@ html, body {
 }
 
 .toc-link, .toc-footer li {
-  padding: 0 $nav-padding 0 $nav-padding;
+  //padding: 0 $nav-padding 0 $nav-padding;
+  padding: 5px 15px 5px 15px; // for yuansfer
   display: block;
   overflow-x: hidden;
   white-space: nowrap;

@@ -2,14 +2,14 @@
 title: API Reference
 
 language_tabs: # must be one of https://git.io/vQNgJ
-  - shell
-  - ruby
-  - python
-  - javascript
+  - cURL
+  - PHP
+  - Java
+  - Go
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/slatedocs/slate'>Documentation Powered by Slate</a>
+  - <a href='https://docs.yuansfer.com/en/'>@Yuanex Inc.</a>
+  - <a href='https://docs.yuansfer.com/en/'>All Right Reserved</a>
 
 includes:
   - errors
